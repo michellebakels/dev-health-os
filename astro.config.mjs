@@ -26,6 +26,7 @@ export default defineConfig({
 							label: 'Section 1: Burnout Recovery', 
 							items: [
 								{ label: 'The Problem of Burnout', link: '/os/section1/the-problem-of-burnout' },
+								{ label: 'The Solution of Restful Work', link: '/os/section1/the-solution-of-restful-work' },
 							]
 						},
 					],
@@ -40,9 +41,10 @@ export default defineConfig({
 							]
 						},
 						{ 
-							label: 'Cerebral Calisthenics #1', 
+							label: 'Cerebral Calisthenics', 
 							items: [
-								{ label: 'Begin with the end in mind', link: '/workbook/cc1/cc1-1/' },
+								{ label: 'CC #1: Begin with the end in mind', link: '/workbook/cerebral-calisthenics/cc1' },
+								{ label: 'CC #2: Indentifying your level of burnout', link: '/workbook/cerebral-calisthenics/cc2' },
 							]
 						},
 					],

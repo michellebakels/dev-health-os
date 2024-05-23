@@ -7,4 +7,4 @@ The goal of Developer Health OS is to allow us to achieve restful work regularly
 
 The Developer Health OS will use restful work as its ultimate North Star. Each of the following sections will explore the individual components needed to achieve a restful work environment, and when coupled with the Developer Health OS Workbook to complete the cerebral calisthenics, you will be able to identify your restful work preferences and begin implementing them into your own life.  
 
-This section of the Developer Health OS corresponds to <em>Cerebral Calisthenics #1 Begin with the end in mind: Restful Work</em> in the DHOS [Workbook](/workbook/cc1/cc1-1/)
+This section of the Developer Health OS corresponds to <em>Cerebral Calisthenics #1 Begin with the end in mind</em> in the DHOS [Workbook](/workbook/cerebral-calisthenics/cc1)

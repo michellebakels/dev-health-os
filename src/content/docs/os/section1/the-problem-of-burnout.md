@@ -69,4 +69,4 @@ A non-exhaustive list of the most common signs of burnout include:
 
 We've heard many war stories and witnessed much commiserating, frustration, and venting. But what we haven't seen is a cohesive, meaningful solution. We are going to change that. 
 
-This section of the Developer Health OS corresponds to <em>Cerebral Calisthenics #2 Identifying Your Level of Burnout</em> in the DHOS [Workbook](/workbook/how-does-it-work)
+This section of the Developer Health OS corresponds to <em>Cerebral Calisthenics #2 Identifying Your Level of Burnout</em> in the DHOS [Workbook](/workbook/cerebral-calisthenics/cc2)
