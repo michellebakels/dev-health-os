@@ -41,6 +41,9 @@ export default defineConfig({
 								{ label: 'Adrenalizing', link: '/os/section2/adrenalizing' },
 								{ label: 'Slowing Down', link: '/os/section2/slowing-down' },
 								{ label: 'How to Slow Down', link: '/os/section2/how-to-slow-down' },
+								{ label: 'Using the Tools', link: '/os/section2/using-the-tools' },
+								{ label: 'Discovering Ourselves', link: '/os/section2/discovering-ourselves' },
+								{ label: 'Technical Debt of Life', link: '/os/section2/technical-debt-of-life' },
 							]
 						},
 					],

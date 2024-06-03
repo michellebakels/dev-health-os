@@ -1,0 +1,24 @@
+---
+title: Discovering Ourselves
+description: Work should only be one part of our lives
+---
+
+**<em>Guiding Principle: Work should only be one part of our life–an important part–but just one piece of a greater whole.</em>**
+
+As children, before we enter the workforce, we learn that the goal of employment is to rise to the top. We need to be smarter and work harder than everyone else to earn a living that will provide happiness, success, and financial stability. Once we have a "good job," we can relax and settle down. Happiness is described to us in the context of exotic vacations, beautiful homes, expensive cars, luxury accessories, and private school education for our children. Our lives will be better when we have more and own more. When the burden of the cost of living is behind us, we'll have no worries. 
+
+While it's certainly true that a level of financial stability helps [increase our emotional well-being](https://www.inc.com/eric-mack/the-exact-amount-of-money-it-takes-to-make-a-person-happy-just-got-an-update.html), we often desire to push past that level. For many, this is a lesson learned the hard way. We claw our way up the ladder, seeking promotion after promotion, raise after raise, only to find that we're more stressed, more tired, and have more worries—quite a rude awakening from the expectations set during our childhood and promises made to us throughout college. 
+
+Despite our disappointment, we continue to defend this narrative as we blindly fulfill the requirements on the roadmap to "the good life." We grab the titles of Senior Engineer, Director, CTO, and their respective salary bumps. We tell ourselves, <em>If this isn't enough, if I'm still unhappy, I haven't made it yet. I have to keep going. I still need to be smarter, I still need to work harder.</em>
+
+Career advancement becomes an obsession. It becomes the perceived key to unlocking the gate guarding financial contentment, happiness, leisure, and successful parenthood–everything we could hope to be, everything we could ever want. With little clarity on the specifics, we work down a path in our lives and seldom pause to notice where we are in the present, what we've moved on from in the past, and what we're working toward in the future. Are we spending enough time after each achievement to enjoy that success and notice how it makes us feel? Did we get what we were looking for when we pursued that goal, or are we already on to the next one? 
+
+When we constantly chase after the next thing, we risk creating perpetual imposter syndrome for ourselves. <em>Once I just do x, then I'll be a real developer. Once my business does x, I’ll be a real founder. Once I make x amount, I’ll be a real investor.</em>  Do we know what success looks like, or are we working toward a feeling? Can we describe that feeling? Will we be able to recognize it when it arrives? Are we certain this feeling isn't already available to us? Are we certain that we're headed in the right direction?
+
+Being a creator, builder, or connector is great because these roles are important, but they don't have to dominate our lives. Work should be a part of our life, but not our entire life. At one time, a measure of success was the amount of time we spent on leisure; now, a measure of success is if we're taking a private jet to the next meeting. When work dwarfs everything else in our life, when we feel we can't waste any time, or when we find ourselves rejecting leisure, then we've been led to a place where work is the biggest piece of our pie. 
+
+It's not always obvious when we reach the point that work consumes our lives. It's a progressive desensitization rooted in expectations set for us early on. We enter the workforce, and it's hard. When we inquire about the strife, we're told this is how it's supposed to be. We're taught to work hard when we’re young so we can enjoy life later. So we learn how to hustle now, work late after hours, say yes to everything, and take on projects beyond our ability, but we never learn the second part, how to enjoy life later. No one indicates to us when this day will arrive. No one teaches us about saying no, how to set boundaries, or when to turn down a promotion. 
+
+Furthermore, youth is not an excuse or pass for developing unhealthy habits. Our actions and decisions throughout our lives carry with us. If we burn ourselves out in our early twenties, we risk lifelong repercussions from those experiences. They may show up in the form of physical ailments like heart conditions and ulcers or mental health issues and trauma that persist for decades. 
+
+The consequences of unhealthy habits can be unpredictable. To put it bluntly, **a good thing for us can never be built upon a bad thing for us.**
