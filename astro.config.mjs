@@ -35,6 +35,12 @@ export default defineConfig({
 								{ label: 'TASHA', link: '/os/section1/tasha' },
 							]
 						},
+						{ 
+							label: 'Section 2: Burnout Prevention', 
+							items: [
+								{ label: 'Adrenalizing', link: '/os/section2/adrenalizing' },
+							]
+						},
 					],
 				},
 				{
@@ -51,6 +57,7 @@ export default defineConfig({
 							items: [
 								{ label: 'CC #1: Begin with the end in mind', link: '/workbook/cerebral-calisthenics/cc1' },
 								{ label: 'CC #2: Indentifying your level of burnout', link: '/workbook/cerebral-calisthenics/cc2' },
+								{ label: 'CC #3: Burnout Recovery', link: '/workbook/cerebral-calisthenics/cc3' },
 							]
 						},
 					],
