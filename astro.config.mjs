@@ -39,6 +39,8 @@ export default defineConfig({
 							label: 'Section 2: Burnout Prevention', 
 							items: [
 								{ label: 'Adrenalizing', link: '/os/section2/adrenalizing' },
+								{ label: 'Slowing Down', link: '/os/section2/slowing-down' },
+								{ label: 'How to Slow Down', link: '/os/section2/how-to-slow-down' },
 							]
 						},
 					],
