@@ -27,6 +27,7 @@ export default defineConfig({
 							items: [
 								{ label: 'The Problem of Burnout', link: '/os/section1/the-problem-of-burnout' },
 								{ label: 'The Solution of Restful Work', link: '/os/section1/the-solution-of-restful-work' },
+								{ label: 'The Framework Principles', link: '/os/section1/the-framework-principles' },
 							]
 						},
 					],
