@@ -50,6 +50,7 @@ export default defineConfig({
 								{ label: 'Reducing Internal & External Pressure', link: '/os/section2/reducing-pressure' },
 								{ label: 'Is My Workplace "Workaholic"?', link: '/os/section2/is-my-workplace-workaholic' },
 								{ label: 'What makes a non-workaholic workplace?', link: '/os/section2/non-workaholic-workplace' },
+								{ label: 'Boundaries With A Workaholic Workplace', link: '/os/section2/boundaries-with-a-workaholic-workplace' },
 							]
 						},
 					],
