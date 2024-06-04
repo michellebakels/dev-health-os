@@ -51,6 +51,8 @@ export default defineConfig({
 								{ label: 'Is My Workplace "Workaholic"?', link: '/os/section2/is-my-workplace-workaholic' },
 								{ label: 'What makes a non-workaholic workplace?', link: '/os/section2/non-workaholic-workplace' },
 								{ label: 'Boundaries With A Workaholic Workplace', link: '/os/section2/boundaries-with-a-workaholic-workplace' },
+								{ label: 'Asking the Hard Question', link: '/os/section2/asking-the-hard-question' },
+								{ label: 'People First Principles', link: '/os/section2/people-first-principles' },
 							]
 						},
 					],
