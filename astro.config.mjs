@@ -48,6 +48,7 @@ export default defineConfig({
 								{ label: 'Creating Top Lines, Middle Lines, and Bottom Lines', link: '/os/section2/top-middle-bottom-lines' },
 								{ label: 'Does Our Time Align With What Matters Most?', link: '/os/section2/does-our-time-align' },
 								{ label: 'Reducing Internal & External Pressure', link: '/os/section2/reducing-pressure' },
+								{ label: 'Is My Workplace "Workaholic"?', link: '/os/section2/is-my-workplace-workaholic' },
 							]
 						},
 					],
