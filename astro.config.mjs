@@ -44,6 +44,7 @@ export default defineConfig({
 								{ label: 'Using the Tools', link: '/os/section2/using-the-tools' },
 								{ label: 'Discovering Ourselves', link: '/os/section2/discovering-ourselves' },
 								{ label: 'Technical Debt of Life', link: '/os/section2/technical-debt-of-life' },
+								{ label: 'Boundaries with Work and Technology', link: '/os/section2/boundaries' },
 							]
 						},
 					],
