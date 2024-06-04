@@ -46,6 +46,7 @@ export default defineConfig({
 								{ label: 'Technical Debt of Life', link: '/os/section2/technical-debt-of-life' },
 								{ label: 'Boundaries with Work and Technology', link: '/os/section2/boundaries' },
 								{ label: 'Creating Top Lines, Middle Lines, and Bottom Lines', link: '/os/section2/top-middle-bottom-lines' },
+								{ label: 'Does Our Time Align With What Matters Most? ', link: '/os/section2/does-our-time-align' },
 							]
 						},
 					],
