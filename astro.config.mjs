@@ -59,6 +59,9 @@ export default defineConfig({
 							label: 'Section 3: Optimization', 
 							items: [
 								{ label: 'Prioritizing Your Health: Glass vs Rubber', link: '/os/section3/prioritizing-your-health' },
+								{ label: 'It Starts with Sleep', link: '/os/section3/it-starts-with-sleep' },
+								{ label: 'Tracking Our Sleep', link: '/os/section3/tracking-our-sleep' },
+								{ label: 'Sleep Efficiency and Optimization', link: '/os/section3/sleep-efficiency-and-optimization' },
 							]
 						},
 					],
