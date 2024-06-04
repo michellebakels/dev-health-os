@@ -45,6 +45,7 @@ export default defineConfig({
 								{ label: 'Discovering Ourselves', link: '/os/section2/discovering-ourselves' },
 								{ label: 'Technical Debt of Life', link: '/os/section2/technical-debt-of-life' },
 								{ label: 'Boundaries with Work and Technology', link: '/os/section2/boundaries' },
+								{ label: 'Creating Top Lines, Middle Lines, and Bottom Lines', link: '/os/section2/top-middle-bottom-lines' },
 							]
 						},
 					],
