@@ -49,6 +49,7 @@ export default defineConfig({
 								{ label: 'Does Our Time Align With What Matters Most?', link: '/os/section2/does-our-time-align' },
 								{ label: 'Reducing Internal & External Pressure', link: '/os/section2/reducing-pressure' },
 								{ label: 'Is My Workplace "Workaholic"?', link: '/os/section2/is-my-workplace-workaholic' },
+								{ label: 'What makes a non-workaholic workplace?', link: '/os/section2/non-workaholic-workplace' },
 							]
 						},
 					],
