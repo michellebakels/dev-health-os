@@ -1,5 +1,5 @@
 ---
-title: Prioritizing our Health, Glass vs. Rubber
+title: Prioritizing Your Health, Glass vs. Rubber
 description: Examine our lives in terms of glass and rubber balls
 ---
 
