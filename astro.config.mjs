@@ -49,10 +49,16 @@ export default defineConfig({
 								{ label: 'Does Our Time Align With What Matters Most?', link: '/os/section2/does-our-time-align' },
 								{ label: 'Reducing Internal & External Pressure', link: '/os/section2/reducing-pressure' },
 								{ label: 'Is My Workplace "Workaholic"?', link: '/os/section2/is-my-workplace-workaholic' },
-								{ label: 'What makes a non-workaholic workplace?', link: '/os/section2/non-workaholic-workplace' },
+								{ label: 'What Makes a Non-workaholic Workplace?', link: '/os/section2/non-workaholic-workplace' },
 								{ label: 'Boundaries With A Workaholic Workplace', link: '/os/section2/boundaries-with-a-workaholic-workplace' },
 								{ label: 'Asking the Hard Question', link: '/os/section2/asking-the-hard-question' },
 								{ label: 'People First Principles', link: '/os/section2/people-first-principles' },
+							]
+						},
+						{ 
+							label: 'Section 3: Optimization', 
+							items: [
+								{ label: 'Prioritizing Your Health: Glass vs Rubber', link: '/os/section3/prioritizing-your-health' },
 							]
 						},
 					],
