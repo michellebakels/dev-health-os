@@ -9,7 +9,7 @@ Slowing down is the foundation of restful work. If we're always working at a spr
 
 Let’s bring our inner Zack Morris and learn to pause time to our advantage. In order to slow down, you need to look at all the things in your life that keep you goinggoinggoinggoing, press pause, rearrange the picture, and then resume. The DHOS breaks this down into the following steps: Prioritize, Substitute, Under-Scheduling, Playing, Concentrating, Pacing, and Pausing to Relay. 
 
-### CC 3.1
+### CC 3.1: Building an Essentialism Plan
 <em>Prioritizing & Building your first Essentialism Plan. What are your major priorities in your work and life? Are the "hell yeahs" aligned with company principles, vision, OKRs, or the guiding metric of ultimate importance?
 
 See [SECTION 2: Using the Tools](/os/section2/using-the-tools) in the DHOS manual for more info about how to create your Essentialism Plan.</em>
@@ -59,10 +59,10 @@ Future
 
 ```
 
-### CC 3.2
+### CC 3.2: Substituting
 <em>Returning to the time budget, we cannot add a new activity without eliminating one that demands equivalent (or greater) time and energy from our schedule. We go over our time budget if we don't eliminate what we add. This is how we can easily go from a 40-hour work week to 50 hours or more. If we don't substitute, we'll just keep overspending our time. Take a moment and look at your schedule and make note of what can be easily substituted if a new demand arises. When you have a plan, it’ll be much easier to swap out requests.</em>
 
-### CC 3.3
+### CC 3.3: Under-scheduling
 <em>Underscheduling positions us to be satisfied with our work and allows us the potential to exceed our expectations. We allow ourselves more time than we think we need to complete a task and a comfortable margin to accommodate the unexpected. 
 
 How to under-schedule
@@ -73,7 +73,7 @@ How to under-schedule
 - Have a 72-hour moratorium on activities that add two or more hours weekly to your schedule. 
 </em>
 
-### CC 3.4
+### CC 3.4: Playing
 <em>Playing forces us to be in the present moment. Playing is active, engaging, unpredictable, challenging, and fun, yet it also demands our full attention and focus. Our brains explore, build, and strengthen new neural pathways through play. It has been shown that after we engage in a playful experience, we return to work more energized and experience improvements in brain function, creativity, social skills, and cooperation. </em>
 
 How to Play
@@ -84,7 +84,7 @@ How to Play
 - Look into alternative sports/hobbies like indoor rock climbing, aerial silks, surfing, paintball, mountain biking, or dirt biking
 
 
-### CC 3.5
+### CC 3.5: Concentrating
 <em>When we focus our attention on one thing at a time, we might be doing less at once but more overall. We're creating the opportunity to enter into what psychologist Mihaly Csikszentmihalyi calls a “flow state,” a period of time when we become "deeply focused" on our current task, working with "effortless momentum." When we are in flow, we experience a strong sense of clarity, breezing through obstacles, making movement on tasks, and feeling a sense of general happiness while we work. </em>
 
 How to Concentrate: 
@@ -96,7 +96,7 @@ How to Concentrate:
 - Listen to Brain.FM while doing deep work. They use a science-first approach to create music that helps you concentrate. 
 - Build yourself a comfortable work-from-home environment. Maybe that means investing in a special chair or a desk that effortlessly raises and lowers to accommodate times when you’d like to stand. Or maybe that means creating a work-friendly outdoor space or putting up artwork that inspires you. Remember, these are not frivolous expenses; they are investments in your overall productivity and well-being.
 
-### CC 3.6
+### CC 3.6: Pacing
 <em>When we pace ourselves, we are regularly taking a moment to stop and assess the present moment. In practice, pacing looks like breathwork, meditating, stretching, walking, or perhaps playing with our pets. These moments give us a chance to process how we spent the last hour or so, let go of anything bothersome, release any tension or distractions we begin to carry with us and prepare our minds for the next section of work. We don't get "wound up" in our work, therefore, we don't need to unwind.</em>
 
 How to pace yourself
@@ -106,7 +106,7 @@ How to pace yourself
 - Purposely notice how fast you’re walking, speaking, eating, or thinking. If it's fast, try something that is soothing for you like meditation, [laughter yoga](https://youtu.be/4p4dZ0afivk?t=10), or even just breathing. 
 - Practicing wide margins can help you pace better. Give yourself ample time to complete work or prepare for/transition between meetings.  
 
-### CC 3.7
+### CC 3.7: Pausing
 <em>Sometimes you just need to stop and walk away from work, even if just for a few minutes. Here are some suggestions for pausing before things get out of control.</em>
 
 How to pause 

@@ -25,22 +25,22 @@ Everyone is going to have a different threshold for burnout, and there are exter
 * Difficulty sleeping 
 
 
-### CC 2.1
+### CC 2.1: Identify Burnout
 <em>The first step is to identify the problem. Read through the list of burnout indicators above and take a moment to write which symptoms resonate with you. Add anything else that you’re feeling that seems like a symptom of burnout. Remember, your feelings of exhaustion and overwell don’t need to look like anyone else’s.</em>
 
-### CC 2.2
+### CC 2.2: Workaholics Anonymous Diagnostics
 <em>For a more in-depth assessment of your work habits that may be leading to burnout, check out the following Workaholics Anonymous diagnostic tests. Make personal notes of your results. Go beyond surface-level observations and take some time to digest the results and reflect on how these things make you feel.</em>
 
 [Workaholics Anonymous Sign Posts](https://workaholics-anonymous.org/pdf_files/signposts.pdf)  
 [Workaholics Anonymous Knowing](http://www.workaholics-anonymous.org/pdf_files/knowing.pdf)
 
-### CC 2.3
+### CC 2.3: Setting Time Expectations
 <em>Setting your time expectations. Now that you know what direction you’d like to move in, take a moment to set realistic time blocks. Be as specific as possible when deciding on your time commitment (e.g., when and on which days will you work on installing your restful work DHOS).  See Section 1: Setting Time Expectations in the DHOS for more info.</em>
 
-### CC 2.4
+### CC 2.4: Setting Cost Expectations
 <em>Setting your cost expectations. Next, how much can you invest in your mental and physical well-being? We suggest 4% of your net income, however, you will need to find the right amount that you feel comfortable with. First, calculate your number. Next, decide what you would spend that money on. Be specific about what type of environment you would create for yourself (e.g., updating your desk, buying a new office chair, or adding art to your space), and what external services (e.g., therapy, sleep trackers, massages, vacations) you will need. See Section 1: Setting Cost Expectations in the DHOS for more info.</em>
 
-### CC 2.5
+### CC 2.5: TASHA
 <em>Moving from vagueness to clarity with TASHA. While time is the first thing we want to move from vagueness to clarity with, it is not the only thing. We also want to gather data and have clarity in the following areas. Answer the following questions to give a clearer understanding of where you are in the burnout cycle.  See Section 1: TASHA in the DHOS for more info. 
 
 * (T)ime - How am I spending it and in what areas? 
