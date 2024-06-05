@@ -109,6 +109,8 @@ export default defineConfig({
 								{ label: 'CC #2: Indentifying your level of burnout', link: '/workbook/cerebral-calisthenics/cc2' },
 								{ label: 'CC #3: Burnout Recovery', link: '/workbook/cerebral-calisthenics/cc3' },
 								{ label: 'CC #4: Burnout Prevention', link: '/workbook/cerebral-calisthenics/cc4' },
+								{ label: 'CC #5: Optimum Performance', link: '/workbook/cerebral-calisthenics/cc5' },
+								{ label: 'CC #6: Review', link: '/workbook/cerebral-calisthenics/cc6' },
 							]
 						},
 					],
