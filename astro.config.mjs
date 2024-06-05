@@ -70,6 +70,7 @@ export default defineConfig({
 								{ label: 'QEEGs', link: '/os/section3/qeegs' },
 								{ label: 'Neuromodulating Strategies', link: '/os/section3/neuromodulating-strategies' },
 								{ label: 'Additional Neuromodulation Protocols', link: '/os/section3/additional-neuromodulation-protocols' },
+								{ label: 'Team Health', link: '/os/section3/team-health' },
 							]
 						},
 					],
