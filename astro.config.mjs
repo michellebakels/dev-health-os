@@ -87,7 +87,7 @@ export default defineConfig({
 				{
 					label: 'Resources',
 					items: [
-						{ label: 'Resources for Burnout Recovery', link: '/esources/burnout-recovery/' },
+						{ label: 'Resources for Burnout Recovery', link: '/resources/burnout-recovery/' },
 						{ label: 'Resources for Burnout Prevention', link: '/resources/burnout-prevention/' },
 						{ label: 'Resources for Optimum Performance', link: '/resources/optimum-performance/' },
 						{ label: 'General Resources', link: '/resources/general-resources/' },
