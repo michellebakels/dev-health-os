@@ -70,7 +70,7 @@ Negotiating our deadlines and the work added to our plate is a form of boundary 
 ### Social Contracts
 Without specifically using the term “social contract,” we've mentioned key tenants of these agreements throughout the OS. A social contract can be described simply as sharing with our colleagues how we prefer to work, meet, and communicate. The main goal of a social contract is to move from implied expectations based on inferences, interpretations, assumptions, and past experiences to explicit expectations that are clear, specific and formally agreed upon. 
 
-### Fortlight: Expectations & Social Contracting
+### Expectations & Social Contracting
 Social contracts outline our boundaries. They may include, but are not limited to, the best time to schedule meetings, how those meetings should be scheduled, what information is expected in requests, preferences for messaging, how and when a response should be expected, and what kind of notice is needed for deliverables - especially if they're last minute. 
 
 Here are a few examples of social contracts:
@@ -78,11 +78,6 @@ Here are a few examples of social contracts:
 - [Working with Claire](http://growth.eladgil.com/book/the-role-of-the-ceo/insights-working-with-claire/)
 - [Tom’s Leadership & Manager Handbook](https://docs.google.com/presentation/d/1dyXqfOlf2aPNQ0ZOc4HvQ0WzYCN_AYSvA_X5hk6fJqE/edit#slide=id.p)
 - [Aaron’s Social Contract](https://docs.google.com/document/d/1cdykR6wLXF33-UfO70nx01DH5qIcGrJNJrl0HRm3DDM/edit?usp=sharing)
-
-Here are a few social contract templates provided by [Fortlight](https://www.fortlight.com/resources-for-managers):
-- [Mutual Expectations Template](https://docs.google.com/document/d/1z6qwodV51SrDCyNdkTnPxQ2EcOH3sKJGyJbJFWfxqu8/edit?usp=sharing)
-- [User Guide Template](https://docs.google.com/document/d/1opQ3TKmsG8kA1CTikdFXx0-r0v0oyiqE1igT7tXlaks/edit?usp=sharing)
-- [1:1 Notes & Agenda Doc](https://docs.google.com/document/d/1xGQReBYl05MVnpFx_tbprS64ugr2qBUwxBi92fPEMp4/edit?usp=sharing)
 
 ## 4. Notifications
 Adjusting notification settings on our devices is one of the simplest boundaries to implement because our technology allows us to control when, where, and for what we are alerted. We decide which apps we download, where we see a message (home screen, banner, etc.), and if we're available at all. Apps are going to constantly bombard us with notifications because their objective is to keep you on their platform. To break away from these distractions, we need to take inventory of what notifications we currently have enabled and if there's anywhere we can begin to cut down. 

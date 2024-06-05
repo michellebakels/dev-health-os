@@ -73,6 +73,24 @@ export default defineConfig({
 								{ label: 'Team Health', link: '/os/section3/team-health' },
 							]
 						},
+						{ 
+							label: 'Conclusion', 
+							items: [
+								{ label: 'Recover, Prevent, Optimize', link: '/os/conclusion/recover-prevent-optimize' },
+								{ label: 'Blaze Your Own (Neural) Path', link: '/os/conclusion/blaze-your-own-neural-path' },
+								{ label: 'Home Base', link: '/os/conclusion/home-base' },
+							]
+						},
+						{ label: 'About the Team', link: '/os/team/' },
+					],
+				},
+				{
+					label: 'Resources',
+					items: [
+						{ label: 'Resources for Burnout Recovery', link: '/esources/burnout-recovery/' },
+						{ label: 'Resources for Burnout Prevention', link: '/resources/burnout-prevention/' },
+						{ label: 'Resources for Optimum Performance', link: '/resources/optimum-performance/' },
+						{ label: 'General Resources', link: '/resources/general-resources/' },
 					],
 				},
 				{

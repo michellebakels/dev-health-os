@@ -1,0 +1,12 @@
+---
+title: Recover, Prevent, Optimize
+description: The three pathways of finding restful work
+---
+
+<em>Restful Work is a work week to look forward to, one that is filled with joy and rest, and which unfolds at a calm, unhurried pace. Restful work encompasses both a physical time and place as well as a state of mind where we are free to do our best work. Restful work allows us to devote our mental and physical resources to our jobs, yet also the freedom to pull back and acknowledge that work is just one part of our life. The days comprising a restful workweek have a clear start and end, undisturbed personal time, and consistent, ample time for sleep. Restful work means we are better parents, partners, friends, and employees. Restful work leads to putting our health first and, ultimately, finding a place of deep contentment.</em>
+
+The Developer Health OS examines three pathways to finding restful work: Burnout recovery, burnout prevention, and optimum performance. Before we can begin doing our best work, we have to look closely at how we’re already working. What’s going well for us? What isn’t? How can we begin to heal from the damage and pain we may have already incurred? The road to restoring our health may be long, but it will provide a powerful compass for our future goals and vital information for our limits and boundaries. 
+
+Ultimately, the foundation of restful work is slowing down. Slowing down seems impossible because there’s always so much to do. However, when we rush through work, we create the illusion of accomplishing more while actually doing less. Making more space in our day opens the door to higher yield returns by being able to reflect on what we’re doing, accurately prioritizing our work, lowering our stress levels, making time for hobbies, play, family, restoration, and more. Reconstructing and reclaiming our time allows us to build a model of our life that supports our health, and happiness, and prevents a cycle of burnout and recovery. 
+
+Once we address burnout recovery and prevention we can begin optimizing our performance – becoming the best version of ourselves by prioritizing our health first. Often, strategies for optimizing our performance overlap the strategies for burnout prevention, such as getting better sleep, creating boundaries, and identifying artificial pressure. Therefore, making our health a central focus in our lives doesn’t inhibit or distract us from excelling at work, but instead enables us to do better work more consistently than when we treat health as a non-essential luxury. 
