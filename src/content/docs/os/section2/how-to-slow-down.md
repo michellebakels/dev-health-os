@@ -21,7 +21,7 @@ inventory of which defensive tasks are truly a productive use of time, and begin
 ### Offense
 This is the time when we are focused only on our hell yeahs. We guard this time as much as we possibly can and devote our best hours to these activities because these hell yeahs are the items that will have a massive impact on the product or company in the next 9-12 months and are most aligned with our goals. There are no hard and fast rules as to when these hours can happen. As mentioned previously, these hell yeahs are the obvious choices, the ones screaming at us that we should invest ourselves in. 
 
-If we want to learn how to focus more on offense, check out our guide in the OS Workbook on building a two-week [Essentialism Plan](/workbook/cerebral-calisthenics/cc3#cc-31).
+If we want to learn how to focus more on offense, check out our guide in the OS Workbook on building a two-week [Essentialism Plan](/workbook/cerebral-calisthenics/cc3#cc-31-building-an-essentialism-plan).
 
 ## 2. Substituting
 Returning to the time budget, we cannot add a new activity without eliminating one that demands equivalent (or greater) time and energy from our schedule. We go over our time budget if we don't eliminate what we add. This is how we can easily go from a 40-hour work week to 50 hours or more. If we don't substitute, we'll just keep overspending our time. 
