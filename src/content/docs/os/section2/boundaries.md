@@ -70,6 +70,12 @@ Negotiating our deadlines and the work added to our plate is a form of boundary 
 ### Social Contracts
 Without specifically using the term “social contract,” we've mentioned key tenants of these agreements throughout the OS. A social contract can be described simply as sharing with our colleagues how we prefer to work, meet, and communicate. The main goal of a social contract is to move from implied expectations based on inferences, interpretations, assumptions, and past experiences to explicit expectations that are clear, specific and formally agreed upon. 
 
+| **Social Contract Level**    | **Example: How to Give You Feedback** |
+| -------- | ------- |
+| Level 1: Explicit - Base on Conversation and/or instructions  | You tell me when and how to give you feedback or we discuss how we intend to give each other feedback    |
+| Level 2: Implicit - Based on Inferences and Interpretations <br/><br/><em>Note typically skews toward preferences of the most powerful person in the dynamic</em> | I watch other people on my team give you feedback, and then inver how and when to give you feedback based on how I interpret what I see     |
+| Level 3: Implicit - Based on Assumptions and Past Experiences    | I decide how and when to give you feedback based on what I experienced in my last job setting and that feedback culture    |
+
 ### Expectations & Social Contracting
 Social contracts outline our boundaries. They may include, but are not limited to, the best time to schedule meetings, how those meetings should be scheduled, what information is expected in requests, preferences for messaging, how and when a response should be expected, and what kind of notice is needed for deliverables - especially if they're last minute. 
 
