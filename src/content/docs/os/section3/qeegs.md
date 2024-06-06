@@ -14,8 +14,12 @@ The brain’s electrical activity occurs primarily at frequencies from 1 Hertz (
 
 An EEG tracing can look like the image below as it is being collected. Brain waves, captured on the left, and a “brain map,” depicted on the right, reflect the brain's activity. White is normal activity, yellow is higher activity, and red is the highest activity. 
 
+![QEEG](https://basehub.earth/48fd3a0f/x5pfN0URhErUtqmPcqx9V/qeeg.png)
+
 QEEGs can be used to measure the strength and frequency of these different brain waves and to identify any abnormalities or deviations from normal patterns of brain activity. We can see both under-activity and over-activity in the brain, measured by Z scores (1 standard deviation = Z score of 1), and as such, the QEEG can be used to understand the individual’s brain performance and as a tool for diagnosis and monitoring as well. 
 
 Software can convert the flat map of the brain into a 3D overview of network activity using the “connectome” database created by the NIH (National Institutes of Health) during the Obama administration. 
+
+![Connectome brain map](https://basehub.earth/48fd3a0f/rOuXPkqkAxyEfzKDMLW8f/image1.png)
 
 This allows much more precision in understanding how brain networks may be subtly dysregulated, resulting in suboptimal performance in cognition, focus, concentration, emotions, and moods. 

@@ -15,3 +15,4 @@ Neurofeedback is a type of therapy that trains individuals to regulate their own
 Neurofeedback has been shown to be effective in a number of conditions, including ADHD, anxiety, depression, and insomnia. It is generally considered to be a safe and non-invasive treatment option with few side effects. It should be administered by a trained and qualified healthcare professional. 
 
 Take a look at brain maps before and after 20 sessions of neurofeedback: 
+![Neurofeedback](https://basehub.earth/48fd3a0f/fylugnC9nuOqVgtKAt6CZ/image2.png)

@@ -17,3 +17,12 @@ A workaholic workplace is one consumed by an artificial pressure loop where fear
 As we grow up and enter the workforce, we aren’t taught the red flags that signal a workaholic workplace. While learning how to code — whether through school or self-taught — we don’t hear how our new skillset can lead to burnout. Instead, we often learn these red flags through experience.
 
 Whether navigating job applications or your current workplace, these red and green flags can help to identify workaholic tendencies and the health of a workplace.
+
+| **Red Flags**    | **Green Flags** |
+| -------- | ------- |
+| Work hard, play hard mentality.   | Established and realistic goals (both at an organizational, team, and individual level).|
+| “We are a family.” | “We are a team.”|
+| Always on call — you must always be reachable on Slack, phone, or email.    | Asynchronous communication|
+| Regularly asked to work overtime (more than 40 hours per week). | Flexible schedules — no problem with you taking a doctor’s appointment and making up the time.|
+| Ceremonial treatment of meetings (i.e., a considerable importance placed on mandatory, regular meetings).    | Active attempts to reduce meetings.|
+| Micromanagement tendencies — the executive team micromanage team leads, the team leads micromanage their senior devs, senior devs micromanage junior devs, etc.  | Individuals have input on what gets prioritized, how work gets completed, and how they organize their time|
