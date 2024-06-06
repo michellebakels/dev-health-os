@@ -5,7 +5,7 @@ description: Improving our brain health offers enormous benefits in our work and
 
 <em>This section is an expert contribution from Dr. Craig Tanio.</em>
 
-<em>Dr. Craig Tanio is the co-founder of Rezilir Health, a clinical group specializing in reversing preventable chronic disease with a focus on the prevention and reversal of early Alzheimer's and Chronic Inflammatory Response Syndrome. All sources in this section can be found in our RESOURCES section.</em>
+<em>Dr. Craig Tanio is the co-founder of Rezilir Health, a clinical group specializing in reversing preventable chronic disease with a focus on the prevention and reversal of early Alzheimer's and Chronic Inflammatory Response Syndrome. All sources in this section can be found in our [RESOURCES](/resources/general-resources) section.</em>
 
 ---
 Improving our brain health offers enormous benefits in our work and personal life. It provides us with the increased capability to achieve our individual goals through better focus, attention, memory, processing, and creativity. Additionally, it can provide us with the increased capability for enjoyment through reduced stress and anxiety, as well as increased pleasure, mindfulness, and well-being. Medical and practical knowledge of how to improve brain health is increasing rapidly through continued investments in researching this area. 

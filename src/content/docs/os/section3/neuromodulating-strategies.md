@@ -5,7 +5,7 @@ description: Regulate brain activity and teach the brain to rewire itself
 
 <em>This section is an expert contribution from Dr. Craig Tanio.</em>
 
-<em>Dr. Craig Tanio is the co-founder of Rezilir Health, a clinical group specializing in reversing preventable chronic disease with a focus on the prevention and reversal of early Alzheimer's and Chronic Inflammatory Response Syndrome. All sources in this section can be found in our RESOURCES section.</em>
+<em>Dr. Craig Tanio is the co-founder of Rezilir Health, a clinical group specializing in reversing preventable chronic disease with a focus on the prevention and reversal of early Alzheimer's and Chronic Inflammatory Response Syndrome. All sources in this section can be found in our [RESOURCES](/resources/general-resources) section.</em>
 
 ---
 
