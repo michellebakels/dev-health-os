@@ -9,6 +9,9 @@ export default defineConfig({
 			social: {
 				twitter: 'https://twitter.com/g2i_co',
 			},
+			customCss: [
+				'./src/styles/custom.css',
+			],
 			sidebar: [
 				{
 					label: 'Developer Health OS',
