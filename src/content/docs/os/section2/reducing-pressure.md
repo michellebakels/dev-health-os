@@ -17,4 +17,9 @@ More often than not, the root of artificial pressure is fear-based thinking. The
 Defaulting to survival mode while working increases our adrenalin and convinces us to do more and more – to work at an unnatural pace to succeed at unattainable standards that either we or our workplaces have set. There may be times that this adrenalizing feels like 
 an accomplishment, but this is unsustainable, and what may have started off feeling productive is leading to burnout.
 
+<p align="center">
+<img class="dark:sl-hidden" src="https://basehub.earth/48fd3a0f/Ze9YY1tpWrei3oWjjKbTL/1.png">
+<img class="light:sl-hidden" src="https://basehub.earth/48fd3a0f/BjErRkHyI1Nh8silVmTHl/2.png">
+</p>
+
 In this section, we’ll help identify red flags and workaholic tendencies in the workplace that can create artificial pressure and discuss boundaries we can incorporate into our work habits to protect ourselves from artificial pressure. 
