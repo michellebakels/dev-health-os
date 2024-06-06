@@ -37,6 +37,14 @@ This is the gray area. If these boundaries break, it indicates to us that we are
 These are the areas we ultimately want to focus on. These are the habits we want to do regularly. Living in our top lines keeps us removed from our bottom line behaviors. 
 
 Take some time to set your boundaries!
+| <div style="width:150px">Bottom Line</div> | <div style="width:150px">Middle Line</div> | <div style="width:150px">Top Line</div> |
+| ----------- | ----------- | -------- |
+| <br/><br/>  |             |          |
+| <br/><br/>  |             |          |
+| <br/><br/>  |             |          |
+| <br/><br/>  |             |          |
+| <br/><br/>  |             |          |
+| <br/><br/>  |             |          |
 
 
 ### CC 4.3: Aligning your priorities and time
