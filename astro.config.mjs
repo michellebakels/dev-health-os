@@ -13,6 +13,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Developer Health OS',
+			logo: {
+				src: './src/assets/logo.svg',
+			  },
 			social: {
 				"x.com": 'https://twitter.com/g2i_co',
 			},
@@ -21,6 +24,9 @@ export default defineConfig({
 			],
 			components: {
 				Head: './src/components/head.astro',
+				Header: './src/components/header.astro',
+				ThemeSelect: './src/components/theme-select.astro',
+				TwoColumnContent: './src/components/two-column-content.astro',
 			},
 			sidebar: [
 				{
