@@ -14,7 +14,7 @@ export default defineConfig({
 		starlight({
 			title: 'Developer Health OS',
 			social: {
-				twitter: 'https://twitter.com/g2i_co',
+				"x.com": 'https://twitter.com/g2i_co',
 			},
 			customCss: [
 				'./src/styles/custom.css',
