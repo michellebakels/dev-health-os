@@ -19,6 +19,9 @@ export default defineConfig({
 			customCss: [
 				'./src/styles/custom.css',
 			],
+			components: {
+				Head: './src/components/head.astro',
+			},
 			sidebar: [
 				{
 					label: 'Developer Health OS',
