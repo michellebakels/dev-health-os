@@ -9,6 +9,10 @@ Slowing down is the foundation of restful work because it reduces adrenaline. To
 
 What happens when we normalize adrenaline in our lives? This often translates into feeling less adrenalized because we develop a tolerance. We don’t often recognize this normalization of adrenaline. Instead, we notice the struggle to slow down and rest, and the increase of a crashing feeling. 
 
+<p align="center">
+    <img src="https://basehub.earth/48fd3a0f/EUXLmNeePjTa1eqXlaGcR/brain.png">
+</p>
+
 Adrenalizing is a deeply purposeful [survival response](https://www.healthline.com/health/adrenaline-rush) in which our brain fires a series of signals that ultimately release adrenaline into our bloodstream. Once adrenaline is in our bloodstream, our heart rate, perspiration, and breathing increase, and blood vessels contract to direct flow to our muscles, inhibiting our pancreas from producing insulin–an essential hormone for our very health and survival. 
 
 Furthermore, the effects of adrenalizing stay with us long after the episode has passed, which can lead to irritability, nervousness, insomnia, and heart damage. Therefore, long exposure to adrenaline, such as 8 hours a day for several consecutive days, is not a place we want to get comfortable. Adrenalizing by doing too much, moving at a high speed, and working excessive hours is not only unsustainable but ultimately, has a life-threatening impact on our health.
@@ -31,19 +35,23 @@ We respond, "It would've been nice to know about this more in advance, I can't e
 
 We go home late, tired, tense, sad, stressed. We eat the cold, softened leftovers from dinner. Our partner is talking about their mom, their day... our mind is elsewhere, ruminating obsessively over the last 10 hours. Their story is trivial and unimportant. Maybe we've checked out and we don't respond to a single word. Maybe we wait for them to pause so we can turn the conversation towards venting. Again. For the fourth night this week, the third week in a row.
 
+<p align="center">
+    <img src="https://basehub.earth/48fd3a0f/hrzX4AFtF5Fj6Iy5J4dj8/low-battery.png">
+</p>
+
 Instead of going! And going! And going! We're just going and going and going. It's not the same, the magic is gone. It feels exhausting. And stressful. And overwhelming. And unfair. When will it stop? Why does everyone expect so much from me? 
 
-We snap. 
-We break down. 
-We collapse. 
-We withdraw, looking for respite, searching for a retreat, an escape, isolation. We burn out.
+We snap.   
+We break down.   
+We collapse.   
+We withdraw, looking for respite, searching for a retreat, an escape, isolation. We burn out.  
 
-We return to work. 
-"I'm taking PTO starting next week." 
-"I'm switching teams." 
-"I'm changing jobs." 
-"I'm going on sabbatical."
-We take back control. But from whom? Who ever took it away? 
+We return to work.   
+"I'm taking PTO starting next week."   
+"I'm switching teams."   
+"I'm changing jobs."   
+"I'm going on sabbatical."  
+We take back control. But from whom? Who ever took it away?   
 
 In the beginning, adrenalizing while working feels superhuman and rewarding, but it's unsustainable. After attempting to maintain this pace for prolonged periods of time, this pace can lead to feelings of resentment towards the people around us. Towards colleagues for not doing as much. Towards leaders/bosses/managers for encouraging and praising this behavior. Towards our friends and family members for interfering with our productivity. We feel stuck and feel that we must continue this pace because we've set a new standard we have to maintain. We can’t pull back now because we’ll look lazy.  
 
@@ -54,6 +62,10 @@ Slowing down is the foundation of restful work. If we're always working at a spr
 When we slow down, we stop running from ourselves, we start loving ourselves, and we start loving ourselves and others better. When we start truly loving ourselves, this leaves room for a different relationship with work. We no longer work purely focused on titles, levels, and weekly accomplishments. We work for a cause. We ask, "How can I advance this cause that I am serving? How can I serve others? How can I serve others without sacrificing or overburdening myself?  
 
 In general, the word "slow" is treated as a pejorative. And in tech, the word "slow" is treated as a death sentence.
+
+<p align="center">
+    <img src="https://basehub.earth/48fd3a0f/TriM3mUfS6HBK0Vdz2Cyj/turtle.png">
+</p>
 
 Restful work redeems the word slow. Slow is beautiful, it's a gift, it's radical. Slow stands radically opposed to what society, and tech specifically, has impressed upon us as worthy, important, and aspirational. Slow allows us to start doing what we love most and what we're best at. Slow is saying "no" more often. Slow is contributing through others and through communities. Slow is caring for others, it's caring for ourselves, and it's achieving more than we ever thought possible. 
 
