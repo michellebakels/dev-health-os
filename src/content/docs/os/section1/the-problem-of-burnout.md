@@ -45,6 +45,10 @@ Our lives revolve around the constant measurement of deliverables, and as we see
 
 This isn't to say that time is the enemy, or that moving quickly never has merit. Self-kindness, growth, and improvement are rarely served well by blanket generalizations and absolutes. Time is an incredibly precious resource, and tracking it has a lot of obvious value as well. We synchronize our activities, entertainment, family visits, holidays, celebrations, ceremonies, and many other coordinated positive experiences around the time. How we leverage our time and acknowledge our individual relationship to it is the differentiator between overstuffing our days and creating a habit of hurrying, which leads to burnout, or living in a way that is conducive to productivity, work/life balance, and contentment.
 
+<p align="center">
+    <img src="https://basehub.earth/48fd3a0f/SYCGnKDWo08M72xgW0XUj/burnout.png">
+</p>
+
 Reaching the point in 2020 when more than [half of every other worker](https://www.indeed.com/lead/preventing-employee-burnout-report) was burning out can’t be traced back to a single universal cause. While some factors may have a bigger impact than others (e.g., a global pandemic), typically, a progression of compounding pressures, incidents, and events all make up the chemical composition that leads to the final blow – the detonation of the burnout bomb.
 
 While it can't be guaranteed that people will be able to dodge burnout for their entire lives, it can certainly be avoided as a cyclical routine and side effect of simply participating in the modern-day workforce. The most effective way to prevent these episodes is to notice the warning signs of burnout as they arise and respond to those signals with intention and priority.
