@@ -16,7 +16,7 @@
     --sl-color-bg-nav: #ffffff;
     --sl-color-bg-sidebar: #fff8ee;
     --sl-color-content: #fff8ee;
-    /* --sl-color-text-accent: #000000; */
+    --sl-color-text-accent: #ff725c;
 }
 /* Light mode colors. */
 :root[data-theme='light'] {
@@ -37,7 +37,7 @@
     --sl-color-bg-nav: #ffffff;
     --sl-color-bg-sidebar: #fff8ee;
     --sl-color-content: #fff8ee;
-    /* --sl-color-text-accent: #000000; */
+    --sl-color-text-accent: #ff725c;
 }
 
 h1 {
