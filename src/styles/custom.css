@@ -47,3 +47,8 @@ h1 {
         width: min(100%, 125rem);
     }
 }
+
+/* override Header */
+.site-title {
+    color: #000000;
+}
