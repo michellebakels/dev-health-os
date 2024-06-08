@@ -110,10 +110,10 @@ a.secondary {
 }
 
 .pagefind-ui__search-input {
-    border: 2px solid var(--sl-color-hairline-shade);
-    font-weight: bold;
-    border-radius: 1.5rem;
-    color: #000000;
+    border: 2px solid var(--sl-color-hairline-shade) !important;
+    font-weight: bold !important;
+    border-radius: 1.5rem !important;
+    color: #000000 !important;
 }
 
 /* override Content Panel */
