@@ -13,6 +13,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Developer Health OS',
+			logo: {
+				src: './src/assets/logo.svg',
+			  },
 			social: {
 				"x.com": 'https://twitter.com/g2i_co',
 			},
