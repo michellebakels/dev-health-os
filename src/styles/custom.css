@@ -15,6 +15,7 @@
     --sl-icon-color: #000000;
     --sl-color-bg-nav: #ffffff;
     --sl-color-bg-sidebar: #fff8ee;
+    --sl-color-content: #fff8ee;
     /* --sl-color-text-accent: #000000; */
 }
 /* Light mode colors. */
@@ -35,5 +36,70 @@
     --sl-color-text-invert: #000000;
     --sl-color-bg-nav: #ffffff;
     --sl-color-bg-sidebar: #fff8ee;
+    --sl-color-content: #fff8ee;
     /* --sl-color-text-accent: #000000; */
+}
+
+h1 {
+    font-family: 'New Editorial', serif;
+}
+
+.site-title {
+    color: #000000
+}
+
+main {
+    background: var(--sl-color-content);
+}
+
+/* override Search */
+@media (min-width: 50rem) {
+    button[data-open-modal] {
+        border: 2px solid var(--sl-color-outline);
+        border-radius: 1.5rem;
+        padding-inline-start: 0.75rem;
+        padding-inline-end: 1rem;
+        background-color: var(--sl-color-black);
+        color: var(--sl-color-gray-2);
+        font-size: var(--sl-text-sm);
+        font-weight: bold;
+        width: 100%;
+        max-width: 22rem;
+    }
+    button[data-open-modal]:hover {
+        border-color: var(--sl-color-gray-2);
+        color: var(--sl-color-white);
+    }
+
+    /* button[data-open-modal] > :last-child {
+        margin-inline-start: auto;
+    } */
+
+    [aria-label="Search"] {
+        display: none;
+    }
+    
+    [aria-label="(Press / to Search)"] {
+        display: none;
+    }
+}
+
+/* override Hero */
+@media (min-width: 50rem) {
+    .hero {
+        grid-template-columns: 6fr 5fr;
+        gap: 0;
+        padding-block: clamp(2.5rem, calc(1rem + 10vmin), 10rem);
+    }
+
+    .hero > img,
+    .hero > .hero-html {
+        order: 2;
+        width: min(100%, 125rem);
+    }
+}
+
+/* override Header */
+.social-icons::after {
+    border-inline-end: none;
 }

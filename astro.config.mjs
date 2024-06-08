@@ -21,10 +21,11 @@ export default defineConfig({
 			},
 			customCss: [
 				'./src/styles/custom.css',
+				'./src/fonts/font-face.css',
 			],
 			components: {
 				Head: './src/components/head.astro',
-				Header: './src/components/header.astro',
+				// Hero: './src/components/hero.astro',
 				ThemeSelect: './src/components/theme-select.astro',
 				TwoColumnContent: './src/components/two-column-content.astro',
 			},
