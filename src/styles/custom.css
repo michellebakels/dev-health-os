@@ -1,8 +1,8 @@
 /* Dark mode colors. */
 :root {
     --sl-color-accent-low: #000000;
-    --sl-color-accent: #d87f71;
-    --sl-color-accent-high: #d87f71;
+    --sl-color-accent: #ff725c;
+    --sl-color-accent-high: #ff725c;
     --sl-color-white: #121a1c;
     --sl-color-gray-1: #182a2f;
     --sl-color-gray-2: #2a3b41;
@@ -17,8 +17,8 @@
 /* Light mode colors. */
 :root[data-theme='light'] {
     --sl-color-accent-low: #000000;
-    --sl-color-accent: #d87f71;
-    --sl-color-accent-high: #d87f71;
+    --sl-color-accent: #ff725c;
+    --sl-color-accent-high: #ff725c;
     --sl-color-white: #121a1c;
     --sl-color-gray-1: #182a2f;
     --sl-color-gray-2: #2a3b41;
@@ -101,4 +101,9 @@ a.secondary {
         border-radius: 1.5rem;
         color: #000000;
     }
+}
+
+/* override Content Panel */
+.content-panel {
+    border-top: none !important;
 }
