@@ -87,6 +87,10 @@ a.secondary {
     color: #000000;
 }
 
+.social-icons::after {
+    border-inline-end: none;
+}
+
 /* override Search */
 [aria-label="Search"] {
     display: none;
