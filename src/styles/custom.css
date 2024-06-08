@@ -13,6 +13,7 @@
     --sl-color-gray-7: #f3f7f9;
     --sl-color-black: #ffffff;
     --sl-color-hairline-shade: #000000;
+    --sl-color-bg-sidebar: #fff8ee;
 }
 /* Light mode colors. */
 :root[data-theme='light'] {
@@ -29,6 +30,7 @@
     --sl-color-gray-7: #f3f7f9;
     --sl-color-black: #ffffff;
     --sl-color-hairline-shade: #000000;
+    --sl-color-bg-sidebar: #fff8ee;
 }
 
 h1 {
@@ -106,4 +108,22 @@ a.secondary {
 /* override Content Panel */
 .content-panel {
     border-top: none !important;
+}
+
+/* override Sidebar */
+.sidebar-pane {
+    border-inline-end: 2px solid var(--sl-color-hairline-shade);
+}
+
+/* override Right Sidebar */
+.right-sidebar {
+    background: var(--sl-color-bg-sidebar);
+    border-inline-start: 2px solid var(--sl-color-hairline-shade);
+}
+
+/* override Mobile TOC */
+/* [aria-label="starlight__on-this-page--mobile"] { */
+#starlight__mobile-toc {
+    background: var(--sl-color-bg-sidebar) !important;
+    border-bottom: 2px solid var(--sl-color-hairline-shade);
 }
