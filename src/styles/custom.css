@@ -31,3 +31,18 @@
 h1 {
     font-family: 'Editorial New';
 }
+
+/* override Hero */
+@media (min-width: 50rem) {
+    .hero {
+        grid-template-columns: 6fr 5fr;
+        gap: 0;
+        padding-block: clamp(2.5rem, calc(1rem + 10vmin), 10rem);
+    }
+
+    .hero > img,
+    .hero > .hero-html {
+        order: 2;
+        width: min(100%, 125rem);
+    }
+}
