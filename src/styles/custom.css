@@ -27,3 +27,7 @@
     --sl-color-gray-7: #f3f7f9;
     --sl-color-black: #ffffff;
 }
+
+h1 {
+    font-family: 'Editorial New';
+}

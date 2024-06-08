@@ -18,6 +18,7 @@ export default defineConfig({
 			},
 			customCss: [
 				'./src/styles/custom.css',
+				'./src/fonts/font-face.css',
 			],
 			components: {
 				Head: './src/components/head.astro',
