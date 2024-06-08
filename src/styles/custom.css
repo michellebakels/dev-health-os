@@ -98,11 +98,22 @@ a.secondary {
 
 @media (min-width: 50rem) {
     button[data-open-modal] {
-        border: 2px solid #000000;
+        border: 2px solid var(--sl-color-hairline-shade);
         font-weight: bold;
         border-radius: 1.5rem;
         color: #000000;
     }
+}
+
+.dialog-frame {
+    background-color: var(--sl-color-bg-sidebar) !important;
+}
+
+.pagefind-ui__search-input {
+    border: 2px solid var(--sl-color-hairline-shade);
+    font-weight: bold;
+    border-radius: 1.5rem;
+    color: #000000;
 }
 
 /* override Content Panel */
