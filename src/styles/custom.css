@@ -50,6 +50,23 @@ h1 {
     }
 }
 
+.action {
+    height: 50px;
+    width: 220px;
+    font-weight: bold;
+    justify-content: space-around;
+}
+
+a.primary {
+    background: #000000 !important;
+    color: #FFFFFF !important;
+}
+
+a.secondary {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+}
+
 /* override Header */
 .header {
     background: #FFFFFF;
