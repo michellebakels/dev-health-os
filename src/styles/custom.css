@@ -145,3 +145,9 @@ a.secondary {
     background: var(--sl-color-bg-sidebar) !important;
     border-bottom: 2px solid var(--sl-color-hairline-shade);
 }
+
+/* override pagination links */
+.pagination-links a {
+    border: 2px solid var(--sl-color-hairline-shade);
+    box-shadow: none;
+}
