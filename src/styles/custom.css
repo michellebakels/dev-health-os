@@ -33,6 +33,10 @@
     --sl-color-bg-sidebar: #fff8ee;
 }
 
+:root[data-has-hero] body {
+    background: #fff8ee !important;
+}
+
 h1 {
     font-family: 'Editorial New';
 }
@@ -137,7 +141,6 @@ a.secondary {
 }
 
 /* override Mobile TOC */
-/* [aria-label="starlight__on-this-page--mobile"] { */
 #starlight__mobile-toc {
     background: var(--sl-color-bg-sidebar) !important;
     border-bottom: 2px solid var(--sl-color-hairline-shade);
