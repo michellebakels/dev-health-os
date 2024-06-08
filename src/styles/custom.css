@@ -1,22 +1,8 @@
 /* Dark mode colors. */
 :root {
-    --sl-color-accent-low: #00273d;
-    --sl-color-accent: #0071a7;
-    --sl-color-accent-high: #92d1fe;
-    --sl-color-white: #ffffff;
-    --sl-color-gray-1: #e7eff2;
-    --sl-color-gray-2: #bac4c8;
-    --sl-color-gray-3: #7b8f96;
-    --sl-color-gray-4: #495c62;
-    --sl-color-gray-5: #2a3b41;
-    --sl-color-gray-6: #182a2f;
-    --sl-color-black: #121a1c;
-}
-/* Light mode colors. */
-:root[data-theme='light'] {
-    --sl-color-accent-low: #ffdb00;
-    --sl-color-accent: #d87f71;
-    --sl-color-accent-high: #ff8100;
+    --sl-color-accent-low: #ffffff;
+    --sl-color-accent: #ff725c;
+    --sl-color-accent-high: #ff725c;
     --sl-color-white: #121a1c;
     --sl-color-gray-1: #182a2f;
     --sl-color-gray-2: #2a3b41;
@@ -26,32 +12,142 @@
     --sl-color-gray-6: #e7eff2;
     --sl-color-gray-7: #f3f7f9;
     --sl-color-black: #ffffff;
+    --sl-color-hairline-shade: #000000;
+    --sl-color-bg-sidebar: #fff8ee;
 }
-
-:root {
-    --orange-hsl: 0, 60%, 60%;
-	--overlay-orange: hsla(var(--orange-hsl), 0.2);
-}
-
+/* Light mode colors. */
 :root[data-theme='light'] {
-    --orange-hsl: 0, 60%, 60%;
+    --sl-color-accent-low: #ffffff;
+    --sl-color-accent: #ff725c;
+    --sl-color-accent-high: #ff725c;
+    --sl-color-white: #121a1c;
+    --sl-color-gray-1: #182a2f;
+    --sl-color-gray-2: #2a3b41;
+    --sl-color-gray-3: #495c62;
+    --sl-color-gray-4: #7b8f96;
+    --sl-color-gray-5: #bac4c8;
+    --sl-color-gray-6: #e7eff2;
+    --sl-color-gray-7: #f3f7f9;
+    --sl-color-black: #ffffff;
+    --sl-color-hairline-shade: #000000;
+    --sl-color-bg-sidebar: #fff8ee;
 }
 
-[data-has-hero] .page {
-	background:
-		linear-gradient(215deg, var(--overlay-orange), transparent 40%),
-		radial-gradient(var(--overlay-orange), transparent 40%) no-repeat -60vw -40vh / 105vw 200vh,
-		radial-gradient(var(--overlay-orange), transparent 65%) no-repeat 50% calc(100% + 20rem) /
-			60rem 30rem;
+:root[data-has-hero] body {
+    background: #fff8ee !important;
 }
 
-[data-has-hero] header {
-	border-bottom: 1px solid transparent;
-	background-color: transparent;
-	-webkit-backdrop-filter: blur(16px);
-	backdrop-filter: blur(16px);
+h1 {
+    font-family: 'Editorial New';
 }
 
-[data-has-hero] .hero > img {
-	filter: drop-shadow(0 0 3rem var(--overlay-orange));
+/* override Hero */
+@media (min-width: 50rem) {
+    .hero {
+        grid-template-columns: 6fr 5fr;
+        gap: 0;
+        padding-block: clamp(2.5rem, calc(1rem + 10vmin), 10rem);
+    }
+
+    .hero > img,
+    .hero > .hero-html {
+        order: 2;
+        width: min(100%, 125rem);
+    }
+}
+
+.action {
+    height: 50px;
+    width: 220px;
+    font-weight: bold;
+    justify-content: space-around;
+}
+
+a.primary {
+    background: #000000 !important;
+    color: #FFFFFF !important;
+}
+
+a.secondary {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+}
+
+/* override Header */
+.header {
+    background: #FFFFFF;
+    border-bottom: 2px solid var(--sl-color-hairline-shade);
+}
+
+.sl-flex {
+    border: none;
+}
+
+.site-title {
+    color: #000000;
+}
+
+.social-icons a {
+    color: #000000;
+}
+
+.social-icons::after {
+    border-inline-end: none;
+}
+
+/* override Search */
+[aria-label="Search"] {
+    display: none;
+}
+
+[aria-label="(Press / to Search)"] {
+    display: none;
+}
+
+@media (min-width: 50rem) {
+    button[data-open-modal] {
+        border: 2px solid var(--sl-color-hairline-shade);
+        font-weight: bold;
+        border-radius: 1.5rem;
+        color: #000000;
+    }
+}
+
+.dialog-frame {
+    background-color: var(--sl-color-bg-sidebar) !important;
+}
+
+.pagefind-ui__search-input {
+    border: 2px solid var(--sl-color-hairline-shade) !important;
+    font-weight: bold !important;
+    border-radius: 1.5rem !important;
+    color: #000000 !important;
+}
+
+/* override Content Panel */
+.content-panel {
+    border-top: none !important;
+}
+
+/* override Sidebar */
+.sidebar-pane {
+    border-inline-end: 2px solid var(--sl-color-hairline-shade);
+}
+
+/* override Right Sidebar */
+.right-sidebar {
+    background: var(--sl-color-bg-sidebar);
+    border-inline-start: 2px solid var(--sl-color-hairline-shade);
+}
+
+/* override Mobile TOC */
+#starlight__mobile-toc {
+    background: var(--sl-color-bg-sidebar) !important;
+    border-bottom: 2px solid var(--sl-color-hairline-shade);
+}
+
+/* override pagination links */
+.pagination-links a {
+    border: 2px solid var(--sl-color-hairline-shade);
+    box-shadow: none;
 }

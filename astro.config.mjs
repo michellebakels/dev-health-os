@@ -13,14 +13,19 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Developer Health OS',
+			logo: {
+				src: './src/assets/logo.svg',
+			  },
 			social: {
 				"x.com": 'https://twitter.com/g2i_co',
 			},
 			customCss: [
 				'./src/styles/custom.css',
+				'./src/fonts/font-face.css',
 			],
 			components: {
 				Head: './src/components/head.astro',
+				ThemeSelect: './src/components/theme-select.astro',
 			},
 			sidebar: [
 				{
