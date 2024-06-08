@@ -1,6 +1,6 @@
 /* Dark mode colors. */
 :root {
-    --sl-color-accent-low: #ffdb00;
+    --sl-color-accent-low: #000000;
     --sl-color-accent: #d87f71;
     --sl-color-accent-high: #d87f71;
     --sl-color-white: #121a1c;
@@ -12,10 +12,11 @@
     --sl-color-gray-6: #e7eff2;
     --sl-color-gray-7: #f3f7f9;
     --sl-color-black: #ffffff;
+    --sl-color-hairline-shade: #000000;
 }
 /* Light mode colors. */
 :root[data-theme='light'] {
-    --sl-color-accent-low: #ffdb00;
+    --sl-color-accent-low: #000000;
     --sl-color-accent: #d87f71;
     --sl-color-accent-high: #d87f71;
     --sl-color-white: #121a1c;
@@ -27,6 +28,7 @@
     --sl-color-gray-6: #e7eff2;
     --sl-color-gray-7: #f3f7f9;
     --sl-color-black: #ffffff;
+    --sl-color-hairline-shade: #000000;
 }
 
 h1 {
@@ -49,6 +51,15 @@ h1 {
 }
 
 /* override Header */
+.header {
+    background: #FFFFFF;
+    border-bottom: 2px solid var(--sl-color-hairline-shade);
+}
+
+.sl-flex {
+    border: none;
+}
+
 .site-title {
     color: #000000;
 }
