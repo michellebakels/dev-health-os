@@ -9,4 +9,4 @@ Think of this as “Backwards Planning,” meaning you’ll begin this process w
 
 In the DHOS workbook, you will create your first Essentialism Plan by prioritizing 4-6 things that are hell yeahs instead of 20 items of mixed importance. Once your priorities are in place, the overwhelming feeling of an endless to-do list begins to dissolve, and we can start budgeting time in our Daily Action Plan. 
 
-This section of the Developer Health OS corresponds to Cerebral Calisthenics #3 Burnout Recovery & #4 Burnout Prevention in the DHOS Workbook
+This section of the Developer Health OS corresponds to Cerebral Calisthenics #3 Burnout Recovery & #4 Burnout Prevention in the DHOS [Workbook](/workbook/cerebral-calisthenics/cc3/).
