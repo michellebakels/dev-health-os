@@ -96,8 +96,10 @@ a.secondary {
 }
 
 /* override Search */
-[aria-label="Search"] {
-    display: none;
+@media (min-width: 600px) {
+    [aria-label="Search"] {
+        display: none;
+    }
 }
 
 [aria-label="(Press / to Search)"] {
