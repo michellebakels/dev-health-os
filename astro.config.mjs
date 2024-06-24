@@ -12,7 +12,7 @@ export default defineConfig({
 	}),
 	integrations: [
 		starlight({
-			title: '',
+			title: 'The Developer Health OS',
 			logo: {
 				src: './src/assets/logo.png',
 			  },
