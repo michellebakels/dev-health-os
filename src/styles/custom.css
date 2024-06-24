@@ -96,7 +96,7 @@ a.secondary {
 }
 
 /* override Search */
-@media (min-width: 600px) {
+@media (min-width: 800px) {
     [aria-label="Search"] {
         display: none;
     }
