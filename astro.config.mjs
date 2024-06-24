@@ -48,7 +48,7 @@ export default defineConfig({
 								{ label: 'The Framework Principles', link: '/os/section1/the-framework-principles' },
 								{ label: 'Setting Time Expectations', link: '/os/section1/setting-time-expectations' },
 								{ label: 'Setting Cost Expectations', link: '/os/section1/setting-cost-expectations' },
-								{ label: 'Developer Health Fund', link: '/os/section1/developer-health-fund' },
+								// { label: 'Developer Health Fund', link: '/os/section1/developer-health-fund' },
 								{ label: 'Diagnostics and Data', link: '/os/section1/diagnostics-and-data' },
 								{ label: 'TASHA', link: '/os/section1/tasha' },
 							]

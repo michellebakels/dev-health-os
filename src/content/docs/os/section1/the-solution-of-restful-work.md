@@ -5,7 +5,7 @@ description: A re-imagination and reconstruction of how we work
 
 <em>“You do not rise to the level of your goals, you fall to the level of your systems. Your goal is your desired outcome. Your system is your collection of daily [integrated] habits that will get you there.”</em> James Clear, author of Atomic Habits
 
-Well, what about wellness programs? A randomized [clinical study from Harvard University](https://jamanetwork.com/journals/jama/fullarticle/2730614) shows that wellness programs offer "No significant differences in other self-reported health and behaviors; clinical markers of health; health care spending or utilization; or absenteeism, tenure, or job performance after 18 months." 
+Well, what about corporate wellness programs? A randomized [clinical study from Harvard University](https://jamanetwork.com/journals/jama/fullarticle/2730614) shows that wellness programs offer "No significant differences in other self-reported health and behaviors; clinical markers of health; health care spending or utilization; or absenteeism, tenure, or job performance after 18 months." 
 
 Therefore, the solution to burnout will not be found solely in company wellness programs and health insurance offerings. A solution to this growing issue requires an industry-wide re-imagination and reconstruction of how we work fundamentally, as well as a true self-evaluation that addresses the unspoken expectations and artificial pressure we create for ourselves. 
 

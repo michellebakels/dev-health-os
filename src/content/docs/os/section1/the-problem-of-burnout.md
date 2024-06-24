@@ -3,7 +3,7 @@ title: The Problem of Burnout
 description: We focus on helping with three main areas
 ---
 
-Burnout has become so pervasive among workers that it hardly needs an introduction. According to a [survey from Indeed](https://www.indeed.com/lead/preventing-employee-burnout-report), burnout is on the rise, with 52% of participants reporting burnout in the last year (2020). In fact, "burnout" even made the [short list of Dictionary.com's Word of the Year](https://www.newsbreak.com/news/2453894206040/dictionary-com-names-allyship-word-of-the-year) for 2021.
+Burnout has become so pervasive among workers that it hardly needs an introduction. According to a [survey from Indeed](https://www.indeed.com/lead/preventing-employee-burnout-report), burnout is on the rise, with 52% of participants reporting burnout in 2020. In fact, "burnout" even made the [short list of Dictionary.com's Word of the Year](https://www.newsbreak.com/news/2453894206040/dictionary-com-names-allyship-word-of-the-year) for 2021.
 
 To create a shared context for burnout with regard to our framework, we will look at it through the lens of occupational burnout. In 2019, the World Health Organization (WHO) published a clear set of criteria for defining occupational burnout, comprised of the following three components: 
 
@@ -47,6 +47,7 @@ This isn't to say that time is the enemy, or that moving quickly never has merit
 
 <p align="center">
     <img src="https://basehub.earth/48fd3a0f/SYCGnKDWo08M72xgW0XUj/burnout.png">
+    <em><figcaption style="text-align: center; font-size: 0.80em">52% of workers reported experiencing burnout in 2020</figcaption></em>
 </p>
 
 Reaching the point in 2020 when more than [half of every other worker](https://www.indeed.com/lead/preventing-employee-burnout-report) was burning out can’t be traced back to a single universal cause. While some factors may have a bigger impact than others (e.g., a global pandemic), typically, a progression of compounding pressures, incidents, and events all make up the chemical composition that leads to the final blow – the detonation of the burnout bomb.
@@ -70,7 +71,5 @@ A non-exhaustive list of the most common signs of burnout include:
 * Feelings of depression and absenteeism  
 * Increased and/or prolonged feelings of anxiety  
 * Difficulty sleeping
-
-We've heard many war stories and witnessed much commiserating, frustration, and venting. But what we haven't seen is a cohesive, meaningful solution. We are going to change that. 
 
 This section of the Developer Health OS corresponds to <em>Cerebral Calisthenics #2 Identifying Your Level of Burnout</em> in the DHOS [Workbook](/workbook/cerebral-calisthenics/cc2)
