@@ -14,7 +14,7 @@ export default defineConfig({
 		starlight({
 			title: 'Developer Health OS',
 			logo: {
-				src: './src/assets/logo.svg',
+				src: './src/assets/logo.png',
 			  },
 			social: {
 				"x.com": 'https://twitter.com/g2i_co',
