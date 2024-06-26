@@ -37,6 +37,10 @@
     background: #fff8ee !important;
 }
 
+::selection {
+    background: #FFBDB3;
+}
+
 h1 {
     font-family: 'Editorial New';
 }
