@@ -14,6 +14,7 @@
     --sl-color-black: #ffffff;
     --sl-color-hairline-shade: #000000;
     --sl-color-bg-sidebar: #fff8ee;
+    --sl-color-text-invert: #000000;
 }
 /* Light mode colors. */
 :root[data-theme='light'] {
@@ -31,6 +32,7 @@
     --sl-color-black: #ffffff;
     --sl-color-hairline-shade: #000000;
     --sl-color-bg-sidebar: #fff8ee;
+    --sl-color-text-invert: #000000;
 }
 
 :root[data-has-hero] body {
@@ -38,7 +40,8 @@
 }
 
 ::selection {
-    background: #FFBDB3;
+    background: var(--sl-color-accent);
+    color: var(--sl-color-hairline-shade);
 }
 
 h1 {
