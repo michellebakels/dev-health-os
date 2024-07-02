@@ -29,7 +29,8 @@ Understanding why and how we currently work the way we do is the starting point 
 
 We all have different jobs, roles, tasks, and expectations, but we all deserve to protect ourselves, our health, and our time. To practice aligning our lives with our priorities, we first need to take inventory of the hours in our day and ask ourselves the following questions:
 
-- How many hours are we dedicating to work, family, exercise, and sleep? ● Do we have any margin built into our day for the unexpected? 
+- How many hours are we dedicating to work, family, exercise, and sleep? 
+- Do we have any margin built into our day for the unexpected? 
 - When looking at our entire days/weeks, are we surprised to see some portions larger or smaller than others? 
 - Do the largest portions align with our greatest priorities? 
 - If not, what are some ways to begin reallocating time to other areas?
