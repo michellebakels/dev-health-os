@@ -18,8 +18,7 @@ Defaulting to survival mode while working increases our adrenalin and convinces 
 an accomplishment, but this is unsustainable, and what may have started off feeling productive is leading to burnout.
 
 <p align="center">
-<img class="dark:sl-hidden" src="https://basehub.earth/48fd3a0f/Ze9YY1tpWrei3oWjjKbTL/1.png">
-<img class="light:sl-hidden" src="https://basehub.earth/48fd3a0f/BjErRkHyI1Nh8silVmTHl/2.png">
+<img src="https://basehub.earth/48fd3a0f/Ze9YY1tpWrei3oWjjKbTL/1.png">
 </p>
 
 In this section, we’ll help identify red flags and workaholic tendencies in the workplace that can create artificial pressure and discuss boundaries we can incorporate into our work habits to protect ourselves from artificial pressure. 
