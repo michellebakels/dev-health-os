@@ -12,7 +12,8 @@ The [benefits](https://www.healthline.com/health-news/its-not-just-for-kids-even
 - Quicker reaction time 
 - Reduced irritability and anxiety 
 - Lower risk of obesity, high blood pressure, and diabetes 
-- Stronger working memory, cognitive flexibility, and executive function ● Increase in attention 
+- Stronger working memory, cognitive flexibility, and executive function 
+- Increase in attention 
 
 Our body naturally begins internal processes to prepare us for sleep as part of our circadian rhythm. Before we go to sleep, our body temperature drops slightly, so we feel cooler, and our heart rate begins to slow down. 
 
